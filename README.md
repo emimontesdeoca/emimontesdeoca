@@ -6,33 +6,36 @@ Currently, I serve as **Team Lead for the Cloud Solutions Team** at [Intelequia 
 
 Beyond coding, I’m a dedicated sharer of knowledge. You’ll often find me speaking at **international conferences** or writing on my [blog](https://blog.emilianomontesdeoca.com), where I translate real-world problem-solving into actionable insights for developers. Mentoring and community advocacy are close to my heart—I believe in giving back to the ecosystem that has shaped my growth, just as others once generously guided me.  
 
-### Let’s connect:  
-- **Write to me**: [Email](mailto:emimontesdeoca@outlook.es)  
-- **Thoughts & updates**: [X](https://twitter.com/emimontesdeocaa)  
-- **Professional journey**: [LinkedIn](https://www.linkedin.com/in/emimontesdeoca/)  
-- **Behind-the-scenes**: [Instagram](https://www.instagram.com/emimontesdeoca/)  
-- **Deep dives & tutorials**: [Blog](https://blog.emilianomontesdeoca.com)  
-- **Conferencing**: [Sessionize](https://sessionize.com/emimontesdeoca/)  
+Feel free to reach out to me, you can **email me** directly at [emimontesdeoca@outlook.es](mailto:emimontesdeoca@outlook.es), follow my thoughts and updates on [X](https://twitter.com/emimontesdeocaa), explore my **professional journey** on [LinkedIn](https://www.linkedin.com/in/emimontesdeoca/), or peek behind-the-scenes on [Instagram](https://www.instagram.com/emimontesdeoca/). For deeper insights and tutorials, check out my [blog](https://blog.emilianomontesdeoca.com), and if you’re interested in my conference sessions, you can find them on my [Sessionize profile](https://sessionize.com/emimontesdeoca/).
 
-I’m always open to **collaborating on impactful projects**, sharing insights at events, or discussing cloud architecture and developer advocacy. If you’d like to connect or brainstorm ideas, feel free to reach out!  
+I’m always open to **conferencing**, sharing insights at events, or discussing cloud architecture and developer advocacy. If you’d think that I would be a nice fit for your event, let's talk!
 
 #### Upcoming conferences:  
-<!-- CONFERENCES-POST-LIST:START -->  
-- [Global AI Bootcamp 2025 - Lima - My Bots LATAM](https://globalai.community/bootcamp/peru-lima-my-bots/)
-- [NetCoreConf Barcelona 2025Sessionize Event](https://netcoreconf.com/)
-- [Global AI Bootcamp 2025](https://www.meetup.com/es-ES/cloudexpertsc/events/304393901/?eventorigin=group_events_list)
-- [Global Azure Sevilla](https://azuresevilla.github.io/blog/category/global-azure-sevilla-2025/)
-- [Discovery Day 2025 Sofia](https://www.eventbrite.com/e/discovery-day-2025-tickets-1234667948069)
+<!-- CONFERENCES-POST-LIST:START -->
+- [Discovery Day 2025 Sofia](https://sessionize.comhttps://www.eventbrite.com/e/discovery-day-2025-tickets-1234667948069) - June 2025 - Sofia, Bulgaria
+- [Global Azure Sevilla](https://sessionize.comhttps://azuresevilla.github.io/blog/category/global-azure-sevilla-2025/) - May 2025 - Online
+- [Global AI Bootcamp 2025](https://sessionize.comhttps://www.meetup.com/es-ES/cloudexpertsc/events/304393901/?eventorigin=group_events_list) - April 2025 - Online
+- [NetCoreConf Barcelona 2025](https://sessionize.comhttps://netcoreconf.com/) - April 2025 - Barcelona, Spain
+- [Global AI Bootcamp 2025 - Lima - My Bots LATAM](https://sessionize.comhttps://globalai.community/bootcamp/peru-lima-my-bots/) - April 2025 - Online
 <!-- CONFERENCES-POST-LIST:END -->  
 
 #### Latest sessions:  
-<!-- SESSIONS-POST-LIST:START -->  
-- [.NET Aspire: Aplicaciones Cloud-Native sin complicaciones](https://sessionize.com/s/emimontesdeoca/net-aspire-aplicaciones-cloud-native-sin-complicac/131284)
-- [AI Meets SQL: Building a Smart Pizza Shop with .NET and Semantic Kernel](https://sessionize.com/s/emimontesdeoca/ai-meets-sql-building-a-smart-pizza-shop-with-.net/134364)
-- [Semantic Kernel: Revoluciona tus aplicaciones con IA nativa
-](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-con-i/134363)
-- [From nothing to full AI applications with Semantic Kernel in .NET 9
-](https://sessionize.com/s/emimontesdeoca/from-nothing-to-full-ai-applications-with-semantic/134362)
-- [AI-Powered Home Finance Automation: Taming Receipt Chaos with GPT-4
-](https://sessionize.com/s/emimontesdeoca/ai-powered-home-finance-automation-taming-receipt-/131283)
+<!-- SESSIONS-POST-LIST:START -->
+- [.NET Aspire: Aplicaciones Cloud-Native sin complicaciones](https://sessionize.com/s/emimontesdeoca/net-aspire-aplicaciones-cloud-native-sin-complicac/131284) 
+- [AI Meets SQL: Building a Smart Pizza Shop with .NET and Semantic Kernel](https://sessionize.com/s/emimontesdeoca/ai-meets-sql-building-a-smart-pizza-shop-with-.net/134364) 
+- [Semantic Kernel: Revoluciona tus aplicaciones con IA nativa](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-con-i/134363) 
+- [From nothing to full AI applications with Semantic Kernel in .NET 9](https://sessionize.com/s/emimontesdeoca/from-nothing-to-full-ai-applications-with-semantic/134362) 
+- [Semantic Kernel: Revoluciona tus aplicaciones empresariales con IA nativa](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-empre/131287) 
 <!-- SESSIONS-POST-LIST:END -->  
+
+####  
+
+<table style="border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td><img src="https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2024.svg">
+    </td>
+    <td><img src="https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg"></td>
+    <td><img src="https://sessionize.com/Assets/speaker-certificate/msmvp.png"></td>
+</table>
+
+<!-- UPDATED-AT:20250408100230 -->
