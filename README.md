@@ -28,10 +28,10 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 - [Semantic Kernel: Revoluciona tus aplicaciones empresariales con IA nativa](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-empre/131287) 
 <!-- SESSIONS-POST-LIST:END -->  
 
-<br>
+####
 
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2024.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250408101024 -->
+<!-- UPDATED-AT:20250408101305 -->
