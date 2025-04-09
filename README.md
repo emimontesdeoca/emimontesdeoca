@@ -13,6 +13,8 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 #### Upcoming conferences:  
 <!-- CONFERENCES-POST-LIST:START -->
 - [Discovery Day 2025 Sofia](https://sessionize.comhttps://www.eventbrite.com/e/discovery-day-2025-tickets-1234667948069) - June 2025 - Sofia, Bulgaria
+- [CollabDays  Madrid 2025](https://sessionize.comhttps://www.collabdays.org/2025-madrid/) - June 2025 - Pozuelo de Alarc&#243;n, Spain
+- [Global Azure 2025 - Madrid](https://sessionize.comhttps://globalazure.es) - May 2025 - Madrid, Spain
 - [Global Azure Sevilla](https://sessionize.comhttps://azuresevilla.github.io/blog/category/global-azure-sevilla-2025/) - May 2025 - Online
 - [Global AI Bootcamp 2025](https://sessionize.comhttps://www.meetup.com/es-ES/cloudexpertsc/events/304393901/?eventorigin=group_events_list) - April 2025 - Online
 - [NetCoreConf Barcelona 2025](https://sessionize.comhttps://netcoreconf.com/) - April 2025 - Barcelona, Spain
@@ -34,4 +36,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250408101305 -->
+<!-- UPDATED-AT:20250409083957 -->
