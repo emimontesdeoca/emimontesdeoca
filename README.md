@@ -16,9 +16,6 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 - [CollabDays  Madrid 2025](https://www.collabdays.org/2025-madrid/) - June 2025 - Pozuelo de Alarc&#243;n, Spain
 - [Global Azure 2025 - Madrid](https://globalazure.es) - May 2025 - Madrid, Spain
 - [Global Azure Sevilla](https://azuresevilla.github.io/blog/category/global-azure-sevilla-2025/) - May 2025 - Online
-- [Global AI Bootcamp 2025](https://www.meetup.com/es-ES/cloudexpertsc/events/304393901/?eventorigin=group_events_list) - April 2025 - Online
-- [NetCoreConf Barcelona 2025](https://netcoreconf.com/) - April 2025 - Barcelona, Spain
-- [Global AI Bootcamp 2025 - Lima - My Bots LATAM](https://globalai.community/bootcamp/peru-lima-my-bots/) - April 2025 - Online
 <!-- CONFERENCES-POST-LIST:END -->  
 
 #### Latest sessions:  
@@ -36,4 +33,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250411112404 -->
+<!-- UPDATED-AT:20250412130423 -->
