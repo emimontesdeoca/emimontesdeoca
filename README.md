@@ -21,11 +21,11 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 
 #### Latest sessions:  
 <!-- SESSIONS-POST-LIST:START -->
+- [Intelligent Automation: Transforma tus aplicaciones empresariales con IA integrada](https://sessionize.com/s/emimontesdeoca/intelligent-automation-transforma-tus-aplicaciones/136758) 
+- [De Low-Code a Pro-Code: Enfoques para el desarrollo de IA en soluciones empresariales](https://sessionize.com/s/emimontesdeoca/de-low-code-a-pro-code-enfoques-para-el-desarrollo/136757) 
+- [Controlando los gastos de viajes con Azure](https://sessionize.com/s/emimontesdeoca/controlando-los-gastos-de-viajes-con-azure/136756) 
 - [.NET Aspire: Aplicaciones Cloud-Native sin complicaciones](https://sessionize.com/s/emimontesdeoca/net-aspire-aplicaciones-cloud-native-sin-complicac/131284) 
 - [AI Meets SQL: Building a Smart Pizza Shop with .NET and Semantic Kernel](https://sessionize.com/s/emimontesdeoca/ai-meets-sql-building-a-smart-pizza-shop-with-.net/134364) 
-- [Semantic Kernel: Revoluciona tus aplicaciones con IA nativa](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-con-i/134363) 
-- [From nothing to full AI applications with Semantic Kernel in .NET 9](https://sessionize.com/s/emimontesdeoca/from-nothing-to-full-ai-applications-with-semantic/134362) 
-- [Semantic Kernel: Revoluciona tus aplicaciones empresariales con IA nativa](https://sessionize.com/s/emimontesdeoca/semantic-kernel-revoluciona-tus-aplicaciones-empre/131287) 
 <!-- SESSIONS-POST-LIST:END -->  
 
 ####
@@ -34,4 +34,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250428075411 -->
+<!-- UPDATED-AT:20250428083941 -->
