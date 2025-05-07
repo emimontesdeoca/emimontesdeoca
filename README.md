@@ -17,6 +17,7 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 - [Global Azure Pune 2025](https://www.meetup.com/pune-tech-community/events/306720823/) - May 2025 - Online
 - [Global Azure Bootcamp 2025 - Accra](https://lu.ma/rnwyl5zm) - May 2025 - Accra, Ghana
 - [Global Azure 2025 - Madrid](https://globalazure.es) - May 2025 - Madrid, Spain
+- [Derby PowerShell UK &amp; Global Azure Gathering](https://globalazure.net/events/ce09464b-fd66-45d9-882d-587dee0b9b10) - May 2025 - Derby, United Kingdom
 - [Global Azure Sevilla 2025](https://azuresevilla.github.io/blog/category/global-azure-sevilla-2025/) - May 2025 - Online
 <!-- CONFERENCES-POST-LIST:END -->  
 
@@ -35,4 +36,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250507073742 -->
+<!-- UPDATED-AT:20250507150010 -->
