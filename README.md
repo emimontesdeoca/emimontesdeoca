@@ -34,4 +34,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250516150009 -->
+<!-- UPDATED-AT:20250517204302 -->
