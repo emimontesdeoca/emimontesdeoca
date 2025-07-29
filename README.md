@@ -12,19 +12,19 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 
 #### Upcoming conferences:  
 <!-- CONFERENCES-POST-LIST:START -->
-
+- [Prompt Engineering Conference - 2025](https://www.eventbrite.com/e/1325325878379/) - August 2025 - Online
 <!-- CONFERENCES-POST-LIST:END -->  
 
 #### Latest sessions:  
 <!-- SESSIONS-POST-LIST:START -->
+- [Q&amp;A with Speakers](https://sessionize.com/s/emimontesdeoca/qa-with-speakers/142637) 
+- [Hybrid AI with C#, Semantic Kernel, and Gemini: Build Smarter Enterprise Apps](https://sessionize.com/s/emimontesdeoca/hybrid-ai-with-c-semantic-kernel-and-gemini-build-/142636) 
 - [.NET Aspire: Building Cloud-Native Apps Without the Headaches](https://sessionize.com/s/emimontesdeoca/net-aspire-building-cloud-native-apps-without-the-/137596) 
 - [.NET Aspire: Cloud-Native Without the Chaos](https://sessionize.com/s/emimontesdeoca/net-aspire-cloud-native-without-the-chaos/137330) 
 - [Power Platform: The journey from Low-code to Pro-code technologies](https://sessionize.com/s/emimontesdeoca/power-platform-the-journey-from-low-code-to-pro-co/137329) 
 - [Intelligent Automation: Transforma tus aplicaciones empresariales con IA integrada](https://sessionize.com/s/emimontesdeoca/intelligent-automation-transforma-tus-aplicaciones/136758) 
 - [De Low-Code a Pro-Code: Enfoques para el desarrollo de IA en soluciones empresariales](https://sessionize.com/s/emimontesdeoca/de-low-code-a-pro-code-enfoques-para-el-desarrollo/136757) 
 - [Controlando los gastos de viajes con Azure](https://sessionize.com/s/emimontesdeoca/controlando-los-gastos-de-viajes-con-azure/136756) 
-- [.NET Aspire: Aplicaciones Cloud-Native sin complicaciones](https://sessionize.com/s/emimontesdeoca/net-aspire-aplicaciones-cloud-native-sin-complicac/131284) 
-- [AI Meets SQL: Building a Smart Pizza Shop with .NET and Semantic Kernel](https://sessionize.com/s/emimontesdeoca/ai-meets-sql-building-a-smart-pizza-shop-with-.net/134364) 
 <!-- SESSIONS-POST-LIST:END -->  
 
 ####
@@ -33,4 +33,4 @@ I’m always open to **conferencing**, sharing insights at events, or discussing
 ![alt text](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)&nbsp;
 ![alt text](https://sessionize.com/Assets/speaker-certificate/msmvp.png)
 
-<!-- UPDATED-AT:20250624080007 -->
+<!-- UPDATED-AT:20250729090416 -->
